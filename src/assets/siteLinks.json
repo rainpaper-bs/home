@@ -1,37 +1,42 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "User",
+    "name": "账户管理",
+    "link": "https://auth.eyle.work:50215/"
+  },
+  {
+    "icon": "BloggerB",
+    "name": "文章站",
+    "link": "https://www.eyle.work:50215/"
+  },
+  {
+    "icon": "UserFriends",
+    "name": "随笔系统",
+    "link": "https://memos.eyle.work:50215/auth"
+  },
+  {
+    "icon": "Rocketchat",
+    "name": "聊天系统",
+    "link": "https://chat.eyle.work:50215/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "网盘系统",
+    "link": "https://alist.eyle.work:50215/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Robot",
+    "name": "AI聊天",
+    "link": "https://ai.eyle.work:50215/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Check",
+    "name": "系统监控",
+    "link": "https://nezha.eyle.work:45742/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Heart",
+    "name": "服务监控",
+    "link": "https://kuma.eyle.work:45742/status/eon"
   }
 ]
